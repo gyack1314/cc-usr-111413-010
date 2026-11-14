@@ -1,0 +1,3 @@
+# 来源接口与总体口径
+
+population.py提供试点前冻结全市企业框，企业等权，baseline_energy/industry/size/management_score是试点前变量，sampling_error=false表示不是随机样本。trial.py每企业一条，p_treatment为试点内部已知独立Bernoulli分配概率，block是事前分层标记，不约束每组固定处理数；saving_kwh是同一测量周期相对自身登记基期的节约量，可为负，不是个体处理效应真值。descriptive只给已观测分组均值。selection.py连接试点成员身份并列离散类别的观测支持，不声称连续协变量支持或可交换性已成立；非试点企业没有结果。来源实现不含因果迁移估计器。

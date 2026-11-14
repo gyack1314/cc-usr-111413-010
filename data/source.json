@@ -1,0 +1,1056 @@
+{
+  "population": [
+    {
+      "firm": "f0",
+      "industry": "services",
+      "size": "small",
+      "baseline_energy": 1000,
+      "management_score": 0.0
+    },
+    {
+      "firm": "f1",
+      "industry": "manufacturing",
+      "size": "small",
+      "baseline_energy": 1100,
+      "management_score": 0.14285714285714285
+    },
+    {
+      "firm": "f2",
+      "industry": "manufacturing",
+      "size": "small",
+      "baseline_energy": 1200,
+      "management_score": 0.2857142857142857
+    },
+    {
+      "firm": "f3",
+      "industry": "services",
+      "size": "small",
+      "baseline_energy": 1300,
+      "management_score": 0.42857142857142855
+    },
+    {
+      "firm": "f4",
+      "industry": "manufacturing",
+      "size": "small",
+      "baseline_energy": 1400,
+      "management_score": 0.5714285714285714
+    },
+    {
+      "firm": "f5",
+      "industry": "manufacturing",
+      "size": "small",
+      "baseline_energy": 1500,
+      "management_score": 0.7142857142857143
+    },
+    {
+      "firm": "f6",
+      "industry": "services",
+      "size": "small",
+      "baseline_energy": 1600,
+      "management_score": 0.8571428571428571
+    },
+    {
+      "firm": "f7",
+      "industry": "manufacturing",
+      "size": "small",
+      "baseline_energy": 1700,
+      "management_score": 0.0
+    },
+    {
+      "firm": "f8",
+      "industry": "manufacturing",
+      "size": "small",
+      "baseline_energy": 1800,
+      "management_score": 0.14285714285714285
+    },
+    {
+      "firm": "f9",
+      "industry": "services",
+      "size": "small",
+      "baseline_energy": 1900,
+      "management_score": 0.2857142857142857
+    },
+    {
+      "firm": "f10",
+      "industry": "manufacturing",
+      "size": "small",
+      "baseline_energy": 2000,
+      "management_score": 0.42857142857142855
+    },
+    {
+      "firm": "f11",
+      "industry": "manufacturing",
+      "size": "small",
+      "baseline_energy": 2100,
+      "management_score": 0.5714285714285714
+    },
+    {
+      "firm": "f12",
+      "industry": "services",
+      "size": "small",
+      "baseline_energy": 1000,
+      "management_score": 0.7142857142857143
+    },
+    {
+      "firm": "f13",
+      "industry": "manufacturing",
+      "size": "small",
+      "baseline_energy": 1100,
+      "management_score": 0.8571428571428571
+    },
+    {
+      "firm": "f14",
+      "industry": "manufacturing",
+      "size": "small",
+      "baseline_energy": 1200,
+      "management_score": 0.0
+    },
+    {
+      "firm": "f15",
+      "industry": "services",
+      "size": "small",
+      "baseline_energy": 1300,
+      "management_score": 0.14285714285714285
+    },
+    {
+      "firm": "f16",
+      "industry": "manufacturing",
+      "size": "small",
+      "baseline_energy": 1400,
+      "management_score": 0.2857142857142857
+    },
+    {
+      "firm": "f17",
+      "industry": "manufacturing",
+      "size": "small",
+      "baseline_energy": 1500,
+      "management_score": 0.42857142857142855
+    },
+    {
+      "firm": "f18",
+      "industry": "services",
+      "size": "small",
+      "baseline_energy": 1600,
+      "management_score": 0.5714285714285714
+    },
+    {
+      "firm": "f19",
+      "industry": "manufacturing",
+      "size": "small",
+      "baseline_energy": 1700,
+      "management_score": 0.7142857142857143
+    },
+    {
+      "firm": "f20",
+      "industry": "manufacturing",
+      "size": "small",
+      "baseline_energy": 1800,
+      "management_score": 0.8571428571428571
+    },
+    {
+      "firm": "f21",
+      "industry": "services",
+      "size": "small",
+      "baseline_energy": 1900,
+      "management_score": 0.0
+    },
+    {
+      "firm": "f22",
+      "industry": "manufacturing",
+      "size": "small",
+      "baseline_energy": 2000,
+      "management_score": 0.14285714285714285
+    },
+    {
+      "firm": "f23",
+      "industry": "manufacturing",
+      "size": "small",
+      "baseline_energy": 2100,
+      "management_score": 0.2857142857142857
+    },
+    {
+      "firm": "f24",
+      "industry": "services",
+      "size": "small",
+      "baseline_energy": 1000,
+      "management_score": 0.42857142857142855
+    },
+    {
+      "firm": "f25",
+      "industry": "manufacturing",
+      "size": "small",
+      "baseline_energy": 1100,
+      "management_score": 0.5714285714285714
+    },
+    {
+      "firm": "f26",
+      "industry": "manufacturing",
+      "size": "small",
+      "baseline_energy": 1200,
+      "management_score": 0.7142857142857143
+    },
+    {
+      "firm": "f27",
+      "industry": "services",
+      "size": "small",
+      "baseline_energy": 1300,
+      "management_score": 0.8571428571428571
+    },
+    {
+      "firm": "f28",
+      "industry": "manufacturing",
+      "size": "small",
+      "baseline_energy": 1400,
+      "management_score": 0.0
+    },
+    {
+      "firm": "f29",
+      "industry": "manufacturing",
+      "size": "small",
+      "baseline_energy": 1500,
+      "management_score": 0.14285714285714285
+    },
+    {
+      "firm": "f30",
+      "industry": "services",
+      "size": "medium",
+      "baseline_energy": 1600,
+      "management_score": 0.2857142857142857
+    },
+    {
+      "firm": "f31",
+      "industry": "manufacturing",
+      "size": "medium",
+      "baseline_energy": 1700,
+      "management_score": 0.42857142857142855
+    },
+    {
+      "firm": "f32",
+      "industry": "manufacturing",
+      "size": "medium",
+      "baseline_energy": 1800,
+      "management_score": 0.5714285714285714
+    },
+    {
+      "firm": "f33",
+      "industry": "services",
+      "size": "medium",
+      "baseline_energy": 1900,
+      "management_score": 0.7142857142857143
+    },
+    {
+      "firm": "f34",
+      "industry": "manufacturing",
+      "size": "medium",
+      "baseline_energy": 2000,
+      "management_score": 0.8571428571428571
+    },
+    {
+      "firm": "f35",
+      "industry": "manufacturing",
+      "size": "medium",
+      "baseline_energy": 2100,
+      "management_score": 0.0
+    },
+    {
+      "firm": "f36",
+      "industry": "services",
+      "size": "medium",
+      "baseline_energy": 1000,
+      "management_score": 0.14285714285714285
+    },
+    {
+      "firm": "f37",
+      "industry": "manufacturing",
+      "size": "medium",
+      "baseline_energy": 1100,
+      "management_score": 0.2857142857142857
+    },
+    {
+      "firm": "f38",
+      "industry": "manufacturing",
+      "size": "medium",
+      "baseline_energy": 1200,
+      "management_score": 0.42857142857142855
+    },
+    {
+      "firm": "f39",
+      "industry": "services",
+      "size": "medium",
+      "baseline_energy": 1300,
+      "management_score": 0.5714285714285714
+    },
+    {
+      "firm": "f40",
+      "industry": "manufacturing",
+      "size": "medium",
+      "baseline_energy": 1400,
+      "management_score": 0.7142857142857143
+    },
+    {
+      "firm": "f41",
+      "industry": "manufacturing",
+      "size": "medium",
+      "baseline_energy": 1500,
+      "management_score": 0.8571428571428571
+    },
+    {
+      "firm": "f42",
+      "industry": "services",
+      "size": "medium",
+      "baseline_energy": 1600,
+      "management_score": 0.0
+    },
+    {
+      "firm": "f43",
+      "industry": "manufacturing",
+      "size": "medium",
+      "baseline_energy": 1700,
+      "management_score": 0.14285714285714285
+    },
+    {
+      "firm": "f44",
+      "industry": "manufacturing",
+      "size": "medium",
+      "baseline_energy": 1800,
+      "management_score": 0.2857142857142857
+    },
+    {
+      "firm": "f45",
+      "industry": "services",
+      "size": "medium",
+      "baseline_energy": 1900,
+      "management_score": 0.42857142857142855
+    },
+    {
+      "firm": "f46",
+      "industry": "manufacturing",
+      "size": "medium",
+      "baseline_energy": 2000,
+      "management_score": 0.5714285714285714
+    },
+    {
+      "firm": "f47",
+      "industry": "manufacturing",
+      "size": "medium",
+      "baseline_energy": 2100,
+      "management_score": 0.7142857142857143
+    },
+    {
+      "firm": "f48",
+      "industry": "services",
+      "size": "medium",
+      "baseline_energy": 1000,
+      "management_score": 0.8571428571428571
+    },
+    {
+      "firm": "f49",
+      "industry": "manufacturing",
+      "size": "medium",
+      "baseline_energy": 1100,
+      "management_score": 0.0
+    },
+    {
+      "firm": "f50",
+      "industry": "manufacturing",
+      "size": "medium",
+      "baseline_energy": 1200,
+      "management_score": 0.14285714285714285
+    },
+    {
+      "firm": "f51",
+      "industry": "services",
+      "size": "medium",
+      "baseline_energy": 1300,
+      "management_score": 0.2857142857142857
+    },
+    {
+      "firm": "f52",
+      "industry": "manufacturing",
+      "size": "medium",
+      "baseline_energy": 1400,
+      "management_score": 0.42857142857142855
+    },
+    {
+      "firm": "f53",
+      "industry": "manufacturing",
+      "size": "medium",
+      "baseline_energy": 1500,
+      "management_score": 0.5714285714285714
+    },
+    {
+      "firm": "f54",
+      "industry": "services",
+      "size": "medium",
+      "baseline_energy": 1600,
+      "management_score": 0.7142857142857143
+    },
+    {
+      "firm": "f55",
+      "industry": "manufacturing",
+      "size": "medium",
+      "baseline_energy": 1700,
+      "management_score": 0.8571428571428571
+    },
+    {
+      "firm": "f56",
+      "industry": "manufacturing",
+      "size": "medium",
+      "baseline_energy": 1800,
+      "management_score": 0.0
+    },
+    {
+      "firm": "f57",
+      "industry": "services",
+      "size": "medium",
+      "baseline_energy": 1900,
+      "management_score": 0.14285714285714285
+    },
+    {
+      "firm": "f58",
+      "industry": "manufacturing",
+      "size": "medium",
+      "baseline_energy": 2000,
+      "management_score": 0.2857142857142857
+    },
+    {
+      "firm": "f59",
+      "industry": "manufacturing",
+      "size": "medium",
+      "baseline_energy": 2100,
+      "management_score": 0.42857142857142855
+    },
+    {
+      "firm": "f60",
+      "industry": "services",
+      "size": "large",
+      "baseline_energy": 1000,
+      "management_score": 0.5714285714285714
+    },
+    {
+      "firm": "f61",
+      "industry": "manufacturing",
+      "size": "large",
+      "baseline_energy": 1100,
+      "management_score": 0.7142857142857143
+    },
+    {
+      "firm": "f62",
+      "industry": "manufacturing",
+      "size": "large",
+      "baseline_energy": 1200,
+      "management_score": 0.8571428571428571
+    },
+    {
+      "firm": "f63",
+      "industry": "services",
+      "size": "large",
+      "baseline_energy": 1300,
+      "management_score": 0.0
+    },
+    {
+      "firm": "f64",
+      "industry": "manufacturing",
+      "size": "large",
+      "baseline_energy": 1400,
+      "management_score": 0.14285714285714285
+    },
+    {
+      "firm": "f65",
+      "industry": "manufacturing",
+      "size": "large",
+      "baseline_energy": 1500,
+      "management_score": 0.2857142857142857
+    },
+    {
+      "firm": "f66",
+      "industry": "services",
+      "size": "large",
+      "baseline_energy": 1600,
+      "management_score": 0.42857142857142855
+    },
+    {
+      "firm": "f67",
+      "industry": "manufacturing",
+      "size": "large",
+      "baseline_energy": 1700,
+      "management_score": 0.5714285714285714
+    },
+    {
+      "firm": "f68",
+      "industry": "manufacturing",
+      "size": "large",
+      "baseline_energy": 1800,
+      "management_score": 0.7142857142857143
+    },
+    {
+      "firm": "f69",
+      "industry": "services",
+      "size": "large",
+      "baseline_energy": 1900,
+      "management_score": 0.8571428571428571
+    },
+    {
+      "firm": "f70",
+      "industry": "manufacturing",
+      "size": "large",
+      "baseline_energy": 2000,
+      "management_score": 0.0
+    },
+    {
+      "firm": "f71",
+      "industry": "manufacturing",
+      "size": "large",
+      "baseline_energy": 2100,
+      "management_score": 0.14285714285714285
+    },
+    {
+      "firm": "f72",
+      "industry": "services",
+      "size": "large",
+      "baseline_energy": 1000,
+      "management_score": 0.2857142857142857
+    },
+    {
+      "firm": "f73",
+      "industry": "manufacturing",
+      "size": "large",
+      "baseline_energy": 1100,
+      "management_score": 0.42857142857142855
+    },
+    {
+      "firm": "f74",
+      "industry": "manufacturing",
+      "size": "large",
+      "baseline_energy": 1200,
+      "management_score": 0.5714285714285714
+    },
+    {
+      "firm": "f75",
+      "industry": "services",
+      "size": "large",
+      "baseline_energy": 1300,
+      "management_score": 0.7142857142857143
+    },
+    {
+      "firm": "f76",
+      "industry": "manufacturing",
+      "size": "large",
+      "baseline_energy": 1400,
+      "management_score": 0.8571428571428571
+    },
+    {
+      "firm": "f77",
+      "industry": "manufacturing",
+      "size": "large",
+      "baseline_energy": 1500,
+      "management_score": 0.0
+    },
+    {
+      "firm": "f78",
+      "industry": "services",
+      "size": "large",
+      "baseline_energy": 1600,
+      "management_score": 0.14285714285714285
+    },
+    {
+      "firm": "f79",
+      "industry": "manufacturing",
+      "size": "large",
+      "baseline_energy": 1700,
+      "management_score": 0.2857142857142857
+    },
+    {
+      "firm": "f80",
+      "industry": "manufacturing",
+      "size": "large",
+      "baseline_energy": 1800,
+      "management_score": 0.42857142857142855
+    },
+    {
+      "firm": "f81",
+      "industry": "services",
+      "size": "large",
+      "baseline_energy": 1900,
+      "management_score": 0.5714285714285714
+    },
+    {
+      "firm": "f82",
+      "industry": "manufacturing",
+      "size": "large",
+      "baseline_energy": 2000,
+      "management_score": 0.7142857142857143
+    },
+    {
+      "firm": "f83",
+      "industry": "manufacturing",
+      "size": "large",
+      "baseline_energy": 2100,
+      "management_score": 0.8571428571428571
+    },
+    {
+      "firm": "f84",
+      "industry": "services",
+      "size": "large",
+      "baseline_energy": 1000,
+      "management_score": 0.0
+    },
+    {
+      "firm": "f85",
+      "industry": "manufacturing",
+      "size": "large",
+      "baseline_energy": 1100,
+      "management_score": 0.14285714285714285
+    },
+    {
+      "firm": "f86",
+      "industry": "manufacturing",
+      "size": "large",
+      "baseline_energy": 1200,
+      "management_score": 0.2857142857142857
+    },
+    {
+      "firm": "f87",
+      "industry": "services",
+      "size": "large",
+      "baseline_energy": 1300,
+      "management_score": 0.42857142857142855
+    },
+    {
+      "firm": "f88",
+      "industry": "manufacturing",
+      "size": "large",
+      "baseline_energy": 1400,
+      "management_score": 0.5714285714285714
+    },
+    {
+      "firm": "f89",
+      "industry": "manufacturing",
+      "size": "large",
+      "baseline_energy": 1500,
+      "management_score": 0.7142857142857143
+    }
+  ],
+  "trial": [
+    {
+      "firm": "f30",
+      "block": "3",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 14.0
+    },
+    {
+      "firm": "f31",
+      "block": "3",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 68.0
+    },
+    {
+      "firm": "f32",
+      "block": "3",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 20.0
+    },
+    {
+      "firm": "f33",
+      "block": "3",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 80.0
+    },
+    {
+      "firm": "f34",
+      "block": "3",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 26.0
+    },
+    {
+      "firm": "f35",
+      "block": "3",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 77.0
+    },
+    {
+      "firm": "f36",
+      "block": "3",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 17.0
+    },
+    {
+      "firm": "f37",
+      "block": "3",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 53.0
+    },
+    {
+      "firm": "f38",
+      "block": "3",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 23.0
+    },
+    {
+      "firm": "f39",
+      "block": "3",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 65.0
+    },
+    {
+      "firm": "f40",
+      "block": "4",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 14.0
+    },
+    {
+      "firm": "f41",
+      "block": "4",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 62.0
+    },
+    {
+      "firm": "f42",
+      "block": "4",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 20.0
+    },
+    {
+      "firm": "f43",
+      "block": "4",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 74.0
+    },
+    {
+      "firm": "f44",
+      "block": "4",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 26.0
+    },
+    {
+      "firm": "f45",
+      "block": "4",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 71.0
+    },
+    {
+      "firm": "f46",
+      "block": "4",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 17.0
+    },
+    {
+      "firm": "f47",
+      "block": "4",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 83.0
+    },
+    {
+      "firm": "f48",
+      "block": "4",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 23.0
+    },
+    {
+      "firm": "f49",
+      "block": "4",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 59.0
+    },
+    {
+      "firm": "f50",
+      "block": "5",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 14.0
+    },
+    {
+      "firm": "f51",
+      "block": "5",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 56.0
+    },
+    {
+      "firm": "f52",
+      "block": "5",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 20.0
+    },
+    {
+      "firm": "f53",
+      "block": "5",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 68.0
+    },
+    {
+      "firm": "f54",
+      "block": "5",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 26.0
+    },
+    {
+      "firm": "f55",
+      "block": "5",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 65.0
+    },
+    {
+      "firm": "f56",
+      "block": "5",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 17.0
+    },
+    {
+      "firm": "f57",
+      "block": "5",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 77.0
+    },
+    {
+      "firm": "f58",
+      "block": "5",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 23.0
+    },
+    {
+      "firm": "f59",
+      "block": "5",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 89.0
+    },
+    {
+      "firm": "f60",
+      "block": "6",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 14.0
+    },
+    {
+      "firm": "f61",
+      "block": "6",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 50.0
+    },
+    {
+      "firm": "f62",
+      "block": "6",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 20.0
+    },
+    {
+      "firm": "f63",
+      "block": "6",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 62.0
+    },
+    {
+      "firm": "f64",
+      "block": "6",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 26.0
+    },
+    {
+      "firm": "f65",
+      "block": "6",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 59.0
+    },
+    {
+      "firm": "f66",
+      "block": "6",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 17.0
+    },
+    {
+      "firm": "f67",
+      "block": "6",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 71.0
+    },
+    {
+      "firm": "f68",
+      "block": "6",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 23.0
+    },
+    {
+      "firm": "f69",
+      "block": "6",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 83.0
+    },
+    {
+      "firm": "f70",
+      "block": "7",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 14.0
+    },
+    {
+      "firm": "f71",
+      "block": "7",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 80.0
+    },
+    {
+      "firm": "f72",
+      "block": "7",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 20.0
+    },
+    {
+      "firm": "f73",
+      "block": "7",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 56.0
+    },
+    {
+      "firm": "f74",
+      "block": "7",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 26.0
+    },
+    {
+      "firm": "f75",
+      "block": "7",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 53.0
+    },
+    {
+      "firm": "f76",
+      "block": "7",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 17.0
+    },
+    {
+      "firm": "f77",
+      "block": "7",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 65.0
+    },
+    {
+      "firm": "f78",
+      "block": "7",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 23.0
+    },
+    {
+      "firm": "f79",
+      "block": "7",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 77.0
+    },
+    {
+      "firm": "f80",
+      "block": "8",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 14.0
+    },
+    {
+      "firm": "f81",
+      "block": "8",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 74.0
+    },
+    {
+      "firm": "f82",
+      "block": "8",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 20.0
+    },
+    {
+      "firm": "f83",
+      "block": "8",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 86.0
+    },
+    {
+      "firm": "f84",
+      "block": "8",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 26.0
+    },
+    {
+      "firm": "f85",
+      "block": "8",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 47.0
+    },
+    {
+      "firm": "f86",
+      "block": "8",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 17.0
+    },
+    {
+      "firm": "f87",
+      "block": "8",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 59.0
+    },
+    {
+      "firm": "f88",
+      "block": "8",
+      "p_treatment": 0.5,
+      "assigned": 0,
+      "saving_kwh": 23.0
+    },
+    {
+      "firm": "f89",
+      "block": "8",
+      "p_treatment": 0.5,
+      "assigned": 1,
+      "saving_kwh": 71.0
+    }
+  ]
+}
